@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently working on the GUI of CRISP. If you encounter any bugs or other trouble, please report them to the team under **crisp.helpdesk@gmail.com**. Thanks a lot! 
+
 <!--
 **quadraBits/quadraBits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
